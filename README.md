@@ -109,7 +109,10 @@ AI & Data Science Enthusiast
 ![Chatbot Screenshot 3](assets/telegram-chatbot-3.jpeg)
 ## 🎥 Project Demo Video
 
-▶️ [Watch Demo Video](chatbot-demo.mp4)
+▶️ Click below to watch the working demo of the AI Telegram chatbot:
+
+🔗 [Watch Demo Video](https://drive.google.com/file/d/1X2qXbHYmeBcRd-436CKmG5YvVKqe7rug/view?usp=sharing)
+
 
 
 
