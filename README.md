@@ -100,6 +100,13 @@ Connection with databases for memory and personalization
 Shaily Prasad
 AI & Data Science Enthusiast
 📍 India
+## 📸 Project Preview
+
+### Telegram Chatbot Interaction
+
+![Chatbot Screenshot 1](assets/telegram-chatbot-1.jpeg)
+![Chatbot Screenshot 2](assets/telegram-chatbot-2.jpeg)
+![Chatbot Screenshot 3](assets/telegram-chatbot-3.jpeg)
 
 ⭐ Why This Project Matters
 This project showcases the ability to build production-ready AI systems without traditional coding, using modern automation tools like n8n—an increasingly valuable skill in AI, automation, and product-focused roles.
