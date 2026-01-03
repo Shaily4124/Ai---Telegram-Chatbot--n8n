@@ -103,3 +103,6 @@ AI & Data Science Enthusiast
 
 ⭐ Why This Project Matters
 This project showcases the ability to build production-ready AI systems without traditional coding, using modern automation tools like n8n—an increasingly valuable skill in AI, automation, and product-focused roles.
+## 🔒 Workflow File Availability
+The original n8n workflow JSON file is not included due to loss of access to the n8n environment.
+The complete workflow logic is documented in `workflow-overview.md`.
