@@ -109,9 +109,9 @@ AI & Data Science Enthusiast
 ![Chatbot Screenshot 3](assets/telegram-chatbot-3.jpeg)
 ## 🎥 Project Demo Video
 
-Click the link below to watch a short demo of the AI Telegram chatbot in action:
-
 ▶️ [Watch Demo Video](chatbot-demo.mp4)
+
+
 
 ⭐ Why This Project Matters
 This project showcases the ability to build production-ready AI systems without traditional coding, using modern automation tools like n8n—an increasingly valuable skill in AI, automation, and product-focused roles.
